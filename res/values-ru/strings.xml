@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, XMLTVActivity!</string>
+    <string name="app_name">XMLTV-android</string>
+<string name="infoLabel">Info</string>
+<string name="loadErrorLabel">Error</string>
+<string name="closeLabel">Close</string>
+<string name="Button01">Скачать</string>
+<string name="loadingLabel">Загрузка...</string>
+<string name="viewCategoryList">Просмотр категорий</string>
+
+</resources>
